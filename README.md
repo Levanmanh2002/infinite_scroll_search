@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
 - You have installed the latest version of [Flutter](https://flutter.dev/docs/get-started/install).
 ```sh
-  Flutter 3.19.6 • channel stable • https://github.com/flutter/flutter.git
+  Flutter 3.19.6
   Dart 3.3.4
 ```
 - You have installed [Android Studio](https://developer.android.com/studio)
@@ -33,13 +33,18 @@ Before you begin, ensure you have met the following requirements:
 ```
 - You have a device or emulator to run the application.
 
+- **Flutter**: 
+  - [Latest version](https://flutter.dev/docs/get-started/install)
+  - Version: 3.19.6
+  - Dart: 3.3.4
+
 ## Installation
 
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/your-flutter-project.git
-    cd your-flutter-project
+    git clone https://github.com/Levanmanh2002/infinite_scroll_search.git
+    cd infinite_scroll_search
     ```
 
 2. Install the dependencies:
