@@ -19,7 +19,18 @@ These instructions will get you a copy of the project up and running on your loc
 Before you begin, ensure you have met the following requirements:
 
 - You have installed the latest version of [Flutter](https://flutter.dev/docs/get-started/install).
-- You have installed [Android Studio](https://developer.android.com/studio) or [Xcode](https://developer.apple.com/xcode/) for iOS development.
+```sh
+  Flutter 3.19.6 • channel stable • https://github.com/flutter/flutter.git
+  Dart 3.3.4
+```
+- You have installed [Android Studio](https://developer.android.com/studio)
+```sh
+  Version: 14
+```
+- [Xcode](https://developer.apple.com/xcode/) for iOS development.
+```sh
+  Xcode 15.3
+```
 - You have a device or emulator to run the application.
 
 ## Installation
