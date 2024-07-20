@@ -9,9 +9,6 @@ Welcome to My Flutter Project! This project is built with Flutter and provides a
 - [Installation](#installation)
 - [Running the Project](#running-the-project)
 - [Testing](#testing)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
