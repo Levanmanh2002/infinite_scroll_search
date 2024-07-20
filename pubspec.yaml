@@ -13,6 +13,14 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.6
+  http: ^1.2.2
+  get: ^4.6.6
+  build_runner: ^2.4.9
+  json_annotation: ^4.9.0
+  json_serializable: ^6.8.0
+  loadmore: ^2.1.0
+  sqflite: ^2.3.3+1
+  cached_network_image: ^3.3.1
 
 dev_dependencies:
   flutter_test:
